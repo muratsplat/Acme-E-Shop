@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/muratsplat/Acme-E-Shop.svg?branch=main)](https://travis-ci.org/muratsplat/Acme-E-Shop)
+[![Build Status](https://www.travis-ci.com/muratsplat/Acme-E-Shop.svg?branch=main)](https://www.travis-ci.com/muratsplat/Acme-E-Shop)
 ## Acme E-Shop Website :)
 
 This project was created to review my PHP language knowledge. 
