@@ -1,9 +1,10 @@
 # .travis.yml
-dist: precise
+dist: Bionic
 
 language: php
 
 php:
+  - nightly
   - 8.0
 
 before_script:
